@@ -21,6 +21,9 @@
     <ClCompile Include="Heap.cpp">
       <Filter>資源檔</Filter>
     </ClCompile>
+    <ClCompile Include="Kruskal%27s.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h">
