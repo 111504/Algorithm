@@ -1,6 +1,0 @@
-﻿D:\Visual Studio\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (Project1.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
-  main.cpp
-  Heap.cpp
-d:\algorithm\project1\heap.cpp(55): warning C4018: '<': signed/unsigned 不相符
-  正在產生程式碼...
-  Project1.vcxproj -> D:\Algorithm\Debug\Sorting and Order Statistics.exe
